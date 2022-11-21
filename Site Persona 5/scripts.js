@@ -14,7 +14,7 @@ var chares = document.getElementById('char')
 // Funções e eventos.
 
 function clicar(psg){
-    window.scroll(0,2100) // Move a tela 2100 pixels para baixo assim que clicar no botão.
+    window.scroll(0,1900) // Move a tela 2100 pixels para baixo assim que clicar no botão.
     if (psg == 'joker'){
         charnome.innerHTML = 'Protagonista'
         charnick.innerHTML = 'Joker, Ren, Trickster'
