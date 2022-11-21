@@ -1,0 +1,51 @@
+#joker{
+    background: url(./img/joker.png);
+    background-size: 100%;
+}
+
+#ryuji{
+    background: url(./img/ryuji\ 2.png);
+    background-size: 100%;
+    background-position-y: -25px;
+}
+
+#morgana{
+    background: url(./img/morgana\ 2.png);
+    background-size: 100%;
+    background-position-y: -40px;
+}
+
+#ann{
+    background: url(./img/ann\ 2.png);
+    background-size: 100%;
+}
+
+#yusuke{
+    background: url(./img/yusuke\ 2.png);
+    background-size: 100%;
+}
+
+#makoto{
+    background: url(./img/makoto.png);
+    background-size: 100%;
+}
+
+#futaba{
+    background: url(./img/futaba.png);
+    background-size: 100%;
+}
+
+#haru{
+    background: url(./img/haru.png);
+    background-size: 100%;
+}
+
+#akechi{
+    background: url(./img/akechi.png);
+    background-size: 100%;
+}
+
+#kasumi{
+    background: url(./img/kasumi.png);
+    background-size: 100%;
+}
